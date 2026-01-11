@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Hi Expertise in Web Scraping, Data Extraction, and API Development | 
+            Expertise in Web Scraping, Data Extraction, and API Development | 
             Skilled in Python, Scrapy, BeautifulSoup, Selenium, JSON, XML, and Agile Methodologies | 
             Experienced in Automation, Data Cleaning, PDF Parsing, and CSV/Excel Integration | Jira
           </p>
