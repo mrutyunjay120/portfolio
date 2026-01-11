@@ -27,7 +27,7 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import jiraLogo from './assets/tech_logo/jira.png';
-import jupyterLogo from './assets/tech_logo/Jupyter.png';
+import jupyterLogo from './assets/tech_logo/jupyter.png';
 import pycharmLogo from './assets/tech_logo/pc.png';
 import scrapyLogo from './assets/tech_logo/scrapy.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
